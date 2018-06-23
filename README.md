@@ -1,5 +1,4 @@
 # Mifare Classic 1K dump file key extractor
-=======
 
 A simple program that aims to make key extraction from mfd files simple and fast.
 Dumps can be grabbed with [mfterm](https://github.com/4ZM/mfterm), [mfoc](https://github.com/nfc-tools/mfoc) or nfc-mfclassic tools from libnfc.org
