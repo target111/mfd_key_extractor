@@ -1,6 +1,6 @@
 # Mifare Classic 1K dump file key extractor
 
-A simple tool to extract keys from Mifare Classic 1K dump files.
+A simple tool to extract encryption keys from Mifare Classic 1K dump files.
 Dumps can be grabbed with [mfterm](https://github.com/4ZM/mfterm), [mfoc](https://github.com/nfc-tools/mfoc) or nfc-mfclassic tools from libnfc.org
 
 ## Command line options
